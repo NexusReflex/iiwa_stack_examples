@@ -5,7 +5,11 @@
   
   <arg name="hardware_interface" default="PositionJointInterface"/>
   <arg name="robot_name" default="iiwa"/>
+<<<<<<< HEAD
   <arg name="model" default="iiwa14"/>
+=======
+  <arg name="model" default="iiwa7"/>
+>>>>>>> 20fcf8485dff3c20916504dbceb5bc641b7f4b0a
 
   <!-- The name of the parameter under which the URDF is loaded -->
   <arg name="robot_description" default="robot_description"/>
